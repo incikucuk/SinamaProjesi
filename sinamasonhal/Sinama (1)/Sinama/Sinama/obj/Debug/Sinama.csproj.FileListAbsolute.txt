@@ -1,0 +1,69 @@
+C:\Users\TheSophie\source\repos\Sinama\Sinama\bin\Debug\Sinama.exe.config
+C:\Users\TheSophie\source\repos\Sinama\Sinama\bin\Debug\Sinama.exe
+C:\Users\TheSophie\source\repos\Sinama\Sinama\bin\Debug\Sinama.pdb
+C:\Users\TheSophie\source\repos\Sinama\Sinama\bin\Debug\MetroFramework.dll
+C:\Users\TheSophie\source\repos\Sinama\Sinama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\TheSophie\source\repos\Sinama\Sinama\obj\Debug\Sinama.csprojAssemblyReference.cache
+C:\Users\TheSophie\source\repos\Sinama\Sinama\obj\Debug\Sinama.Properties.Resources.resources
+C:\Users\TheSophie\source\repos\Sinama\Sinama\obj\Debug\Sinama.csproj.GenerateResource.cache
+C:\Users\TheSophie\source\repos\Sinama\Sinama\obj\Debug\Sinama.csproj.CoreCompileInputs.cache
+C:\Users\TheSophie\source\repos\Sinama\Sinama\obj\Debug\Sinama.csproj.CopyComplete
+C:\Users\TheSophie\source\repos\Sinama\Sinama\obj\Debug\Sinama.exe
+C:\Users\TheSophie\source\repos\Sinama\Sinama\obj\Debug\Sinama.pdb
+C:\Users\TheSophie\source\repos\Sinama\Sinama\obj\Debug\Sinama.Form1.resources
+C:\Users\TheSophie\source\repos\Sinama\Sinama\obj\Debug\Sinama.infoCard.resources
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.exe.config
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.exe
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.pdb
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\bin\Debug\MetroFramework.dll
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.Form1.resources
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.infoCard.resources
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.exe
+C:\Users\lenovo\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.pdb
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.exe.config
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.exe
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.pdb
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\bin\Debug\MetroFramework.dll
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csprojAssemblyReference.cache
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.Form1.resources
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.Properties.Resources.resources
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.GenerateResource.cache
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.CoreCompileInputs.cache
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.CopyComplete
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.exe
+C:\Users\TheSophie\Desktop\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.pdb
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.Form1.resources
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.infoCard.resources
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.Properties.Resources.resources
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.exe
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.pdb
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.exe.config
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.exe
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.pdb
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\bin\Debug\MetroFramework.dll
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lenovo\Desktop\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.CopyComplete
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.exe.config
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.exe
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\bin\Debug\Sinama.pdb
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\bin\Debug\MetroFramework.dll
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.Form1.resources
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.infoCard.resources
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.Properties.Resources.resources
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.csproj.CopyComplete
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.exe
+C:\Users\lenovo\Desktop\sinamasonhal\sinamasonhal\Sinama (1)\Sinama\Sinama\obj\Debug\Sinama.pdb

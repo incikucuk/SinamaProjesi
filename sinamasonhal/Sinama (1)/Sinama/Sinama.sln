@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinama", "Sinama\Sinama.csproj", "{8C1B76A6-336A-43BE-9981-BD389896B230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBoxTesting", "sinamaUnitTest\WhiteBoxTesting.csproj", "{22A7CA7E-ADF7-4874-9E96-F7CB1841DD2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1B76A6-336A-43BE-9981-BD389896B230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1B76A6-336A-43BE-9981-BD389896B230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1B76A6-336A-43BE-9981-BD389896B230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1B76A6-336A-43BE-9981-BD389896B230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A7CA7E-ADF7-4874-9E96-F7CB1841DD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A7CA7E-ADF7-4874-9E96-F7CB1841DD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A7CA7E-ADF7-4874-9E96-F7CB1841DD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A7CA7E-ADF7-4874-9E96-F7CB1841DD2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFC3A893-22C5-4153-8BC6-02C870158EC9}
+	EndGlobalSection
+EndGlobal
